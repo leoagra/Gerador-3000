@@ -1,0 +1,6 @@
+{
+  "name": "EscalaFácil Promotores",
+  "description": "Sistema inteligente de geração e gestão de escalas de fins de semana e feriados para promotores de vendas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
